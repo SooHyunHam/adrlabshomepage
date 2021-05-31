@@ -1,6 +1,6 @@
 {
     "title": "ADRLabs",
-    "name": "startbootstrap-landing-page",
+    "name": "adrlabshomepage",
     "version": "6.0.0",
     "scripts": {
         "build": "npm run clean && npm run build:pug && npm run build:scss && npm run build:scripts && npm run build:assets",
