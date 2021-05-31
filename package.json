@@ -1,5 +1,5 @@
 {
-    "title": "Landing Page",
+    "title": "ADRLabs",
     "name": "startbootstrap-landing-page",
     "version": "6.0.0",
     "scripts": {
@@ -21,20 +21,9 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/theme/landing-page",
-    "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-landing-page/issues",
-        "email": "feedback@startbootstrap.com"
-    },
+    "homepage": "https://ADRLabs.com/",
     "license": "MIT",
     "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (https://davidmiller.io/)"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-landing-page.git"
-    },
     "dependencies": {
         "bootstrap": "5.0.1"
     },
