@@ -27,10 +27,6 @@
     "dependencies": {
         "bootstrap": "5.0.1"
     },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/SooHyunHam/adrlabshomepage"
-    },
     "devDependencies": {
         "autoprefixer": "10.2.5",
         "browser-sync": "2.26.14",
