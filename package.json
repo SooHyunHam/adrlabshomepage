@@ -1,7 +1,7 @@
 {
     "title": "ADRLabs",
     "name": "adrlabshomepage",
-    "version": "6.0.0",
+    "version": "1.0.0",
     "scripts": {
         "build": "npm run clean && npm run build:pug && npm run build:scss && npm run build:scripts && npm run build:assets",
         "build:assets": "node scripts/build-assets.js",
@@ -12,7 +12,7 @@
         "start": "npm run build && node scripts/start.js",
         "start:debug": "npm run build && node scripts/start-debug.js"
     },
-    "description": "An HTML landing page template built with Bootstrap",
+    "description": "Homepage for ADRLabs",
     "keywords": [
         "css",
         "sass",
@@ -23,7 +23,7 @@
     ],
     "homepage": "https://ADRLabs.com/",
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "ADRLabs_H",
     "dependencies": {
         "bootstrap": "5.0.1"
     },
